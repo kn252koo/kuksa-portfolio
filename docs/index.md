@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Вітаю на моєму сайті!
+![Alt text](images/photo.jpg)).
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ця сторінка створена як частина мого навчального проекту, де я практикуюся в роботі з Markdown та системою контролю версій Git.
 
-## Commands
+Тут ви знайдете інформацію про мої перші кроки у веб-розробці та структурований опис моїх навичок.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
